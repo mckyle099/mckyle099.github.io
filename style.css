@@ -1,0 +1,39 @@
+body {
+  background-color: #222;
+}
+.myLink {
+  padding: 0.25rem;
+  display: inline;
+}
+.my-ct {
+  width: 50rem;
+  margin: .5rem auto;
+  background-color: #444;
+}
+.nest {
+  margin-left: 2rem;
+}
+.nest2 {
+    margin-left: 4rem;
+  }
+a {
+  background-color: #999;
+  color: #ccc !important;
+}
+h4, a {
+  margin: 0;
+  padding: 0;
+}
+.accordion-title {
+  padding: 1rem;
+  background-color: #666;
+  color: #ccc;
+}
+p {
+  color: #999;
+  padding: .75rem;
+  margin: 0;
+}
+.current {
+    color: orange !important;
+  }
