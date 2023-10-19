@@ -4,6 +4,8 @@ body {
 .myLink {
   padding: 0.25rem;
   display: inline;
+  background-color: #999;
+  color: #ccc !important;
 }
 .my-ct {
   width: 50rem;
@@ -17,7 +19,6 @@ body {
     margin-left: 4rem;
   }
 a {
-  background-color: #999;
   color: #ccc !important;
 }
 h4, a {
