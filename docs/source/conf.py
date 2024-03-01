@@ -30,3 +30,4 @@ html_theme = 'classic'
 #html_theme_options = {'navigation_depth': 2, 'collapse_navigation': False}
 
 html_static_path = ['_static']
+html_extra_path = ['CNAME']
